@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="SysAdmin-Shell-Scripts — animated banner" width="100%"></p>
+
 # System Administration Shell Scripts
 
 Two bash scripts: a RAID health monitor and a bulk GPT-partitioning loop.
